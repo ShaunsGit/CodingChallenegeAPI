@@ -22,4 +22,6 @@ npm start
 This will tell nodemon to host the server.
 
 
-![What is this](WebAPI.png)
+
+## Screenshot
+![Screenshot of Webpage](WebAPI.png)
