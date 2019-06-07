@@ -19,7 +19,7 @@ Once all the dependencies have installed, run:
 npm start
 ```
 
-This will tell nodemon to host the server.
+This will tell nodemon to host the server. The server is hosted on http://localhost:3000.
 
 
 
