@@ -22,4 +22,4 @@ npm start
 This will tell nodemon to host the server.
 
 
-![Alt text](relative/path/to/WebAPI.ong?raw=true "Title")
+![What is this](WebAPI.png)
